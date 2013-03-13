@@ -1,0 +1,5 @@
+include shaders/shaders.def
+include textures/textures.def
+include models/models.def
+include objects/objects.def
+include tanks/tanks.def

@@ -1,0 +1,17 @@
+#version 330
+
+out vec4 pixelColor;
+
+//in vec4 iV;
+//in vec4 iN;
+//in vec4 iL;
+//in vec4 iC;
+in vec3 iTexCoords0;
+
+uniform sampler2D textureMap0;
+//uniform sampler2D textureMap1;
+
+void main(void) {
+	vec4 Md=texture(textureMap0,iTexCoords0.xy);
+	pixelColor = vec4(1.0,0.965,0.56,Md.x);
+}

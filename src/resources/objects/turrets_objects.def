@@ -1,0 +1,81 @@
+object single_base
+	model: single_base
+	texture: moro
+	socket: 0 3 -15
+	end
+
+object single_gun
+	model: single_gun
+	texture: moro
+	socket: 0 0 -47
+	end
+
+object double_base
+	model: double_base
+	texture: moro
+	socket: 0 0.5 -5.6
+	end
+
+object double_gun
+	model: double_gun
+	texture: moro
+	end
+
+object double_gunL
+	model: double_gunL
+	texture: moro
+	socket: -5.5 2.5 -24
+	end
+
+object double_gunR
+	model: double_gunR
+	texture: moro
+	socket: 5.5 2.5 -24
+	end
+
+object gatling_base
+	model: gatling_base
+	texture: moro
+	socket: 0 24.3 -29
+	end
+
+object gatling_gun
+	model: gatling_gun
+	texture: metal
+	socket: 0 7.4 -92
+	end
+
+object gatling_pregun
+	model: gatling_pregun
+	texture: metal
+	socket: 0 0 -5
+	end
+
+object prism_base
+	model: prism_base
+	texture: metal
+	socket: 0 30 5.7
+	end
+
+object prism_gun
+	model: prism_gun
+	texture: moro
+	socket: -2 -4 -15
+	end
+
+object bullet
+	model: bullet
+	texture: metal
+	scale: 1.5
+	end
+
+object gatling_bullet
+	model: bullet
+	texture: metal
+	scale: 2.5
+	end
+
+object prism_beam
+	model: beam
+	texture: light
+	end

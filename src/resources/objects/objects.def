@@ -1,0 +1,4 @@
+include armor_objects.def
+include drive_objects.def
+include turrets_objects.def
+include world_objects.def

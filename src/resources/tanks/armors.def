@@ -1,0 +1,19 @@
+armor light
+	object: light_armor
+	hp: 40
+	weight: 1
+	end
+
+
+armor mid
+	object: mid_armor
+	hp: 60
+	weight: 1.3
+	end
+
+
+armor heavy
+	object: heavy_armor
+	hp: 90
+	weight: 1.7
+	end

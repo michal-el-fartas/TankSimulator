@@ -1,0 +1,11 @@
+object segment
+	model: seg
+	texture: metal
+	end
+
+object Drive
+	model: drive
+	texture: metal
+	scale: 1
+	socket: 0 17 0
+	end

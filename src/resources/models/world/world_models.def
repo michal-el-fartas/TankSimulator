@@ -1,0 +1,13 @@
+model sky
+	source: skybox.obj
+	shader: glsl
+	end
+
+model plane
+	source: plane.obj
+	end
+	
+model particle
+	source: plane.obj
+	shader: expl
+	end

@@ -1,0 +1,39 @@
+texture metal
+	tex: metal.tga
+	end
+
+texture moro
+	tex: moro.tga
+	end
+
+texture desert
+	tex: desert2.tga
+	end
+
+texture dirt
+	tex: dirt.tga
+	end
+
+texture part
+	tex: particle.tga
+	end
+
+texture ground
+	tex: ground.tga
+	end
+
+texture sandMoro
+	tex: moroSand.tga
+	end
+
+texture light
+	tex: light.tga
+	end
+
+texture metal2
+	tex: metal2.tga
+	end
+
+texture metal3
+	tex: metal_spec.tga
+	end

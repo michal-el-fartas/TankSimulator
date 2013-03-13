@@ -1,0 +1,56 @@
+turret single
+	gun: single_gun
+	base: single_base
+	scale: 0.9
+	#reload:
+	#turnSpeed:
+	riseAngle: 15
+	bullet: bullet
+	end
+
+
+turret double
+	type: parallel
+	#gun:
+	gun1: double_gunL
+	gun2: double_gunR
+	base: double_base
+	scale: 1
+	recoil: 10
+	#reload:
+	#turnSpeed:
+	spinSpeed: 0
+	#riseSpeed:
+	riseAngle: 10
+	bullet: bullet
+	end
+
+
+turret gatling
+	type: serial
+	#gun:
+	gun1: gatling_pregun
+	gun2: gatling_gun
+	base: gatling_base
+	scale: 0.3
+	recoil: 0
+	reload: 0.001
+	#turnSpeed:
+	spinSpeed: 360
+	#riseSpeed:
+	riseAngle: 15
+	bullet: gatling_bullet
+	end
+
+
+turret prism
+	gun: prism_gun
+	base: prism_base
+	scale: 0.4
+	reload: 0.5
+	recoil: 0
+	#turnSpeed:
+	riseSpeed: 30
+	riseAngle: 30
+	bullet: prism_beam
+	end

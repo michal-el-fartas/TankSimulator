@@ -1,0 +1,19 @@
+shader default
+	vsh: def/vshader.txt
+	fsh: def/fshader.txt
+	end
+
+shader glsl
+	vsh: glsl/vshader.txt
+	fsh: glsl/fshader.txt
+	end
+
+shader expl
+	vsh: expl/vshader.txt
+	fsh: expl/fshader.txt
+	end
+
+shader prism
+	vsh: prism/vshader.txt
+	fsh: prism/fshader.txt
+	end

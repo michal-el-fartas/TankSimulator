@@ -1,0 +1,16 @@
+object light_armor
+	model: light_armor
+	texture: moro
+	end
+
+object mid_armor
+	model: mid_armor
+	texture: moro
+	scale: 1.02
+	end
+
+object heavy_armor
+	model: heavy_armor
+	texture: moro
+	socket: 0 3.5 0
+	end

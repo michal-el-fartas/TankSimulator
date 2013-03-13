@@ -1,0 +1,16 @@
+model armor
+	source: armor.obj
+	shader: glsl
+	end
+
+model light_armor
+	source: light_armor.obj
+	end
+
+model mid_armor
+	source: mid_armor.obj
+	end
+
+model heavy_armor
+	source: heavy_armor.obj
+	end

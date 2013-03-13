@@ -1,0 +1,7 @@
+model seg
+	source: segment_nowy.obj
+	end
+
+model drive
+	source: podwozie.obj
+	end

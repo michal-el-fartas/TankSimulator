@@ -1,0 +1,4 @@
+include armor/armor_models.def
+include drive/drive_models.def
+include turrets/turrets_models.def
+include world/world_models.def

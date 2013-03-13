@@ -1,0 +1,9 @@
+object Ground
+	model: plane
+	texture: ground
+	end
+
+object Skybox
+	model: sky
+	texture: desert
+	end

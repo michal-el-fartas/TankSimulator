@@ -1,0 +1,15 @@
+turret gatling
+	type: serial
+	#gun:
+	gun1: gatling_pregun
+	gun2: gatling_gun
+	base: gatling_base
+	scale: 0.3
+	recoil: 0
+	#reload:
+	#turnSpeed:
+	spinSpeed: 360
+	#riseSpeed:
+	riseAngle: 15
+	#bullet:
+	end

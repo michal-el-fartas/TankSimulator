@@ -1,0 +1,52 @@
+model single_base
+	source: single_base.obj
+	end
+
+model single_gun
+	source: single_gun.obj
+	end
+
+model double_base
+	source: double_base.obj
+	end
+
+model double_gun
+	source: double_gun.obj
+	end
+
+model double_gunL
+	source: double_gunL.obj
+	end
+
+model double_gunR
+	source: double_gunR.obj
+	end
+
+model gatling_base
+	source: gatling_base.obj
+	end
+
+model gatling_gun
+	source: gatling_gun.obj
+	end
+
+model gatling_pregun
+	source: gatling_pre-gun.obj
+	end
+
+model prism_base
+	source: prism_base.obj
+	end
+
+model prism_gun
+	source: prism_gun.obj
+	end
+
+model bullet
+	source: bullet.obj
+	end
+
+model beam
+	source: beam.obj
+	shader: prism
+	end

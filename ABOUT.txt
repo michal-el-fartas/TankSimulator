@@ -1,0 +1,30 @@
+Zawartoœæ katalogów:
+	'3d-models' - rêcznie wykonywane madele 3D w programie 3dsMax
+	'bin' - gotowa wersja binarna programu na win32 (wymagany opengl3)
+	'src' - kody Ÿród³owe projektu
+	'src/resources' - pliki tekstowe konfiguruj¹ce wszystkie obiekty wystêpuj¹ce w grze (shadery, modele, tekstury, obiekty) oraz ich zachowania (prêdkoœci poruszania, wymiary, zale¿noœci) - wszystko ³adowane dynamicznie przy uruchomianiu aplikacji.
+
+Korzystanie z gry:
+	widok:
+		PgUp/PgDn - przybli¿enie/oddalenie kamery
+		V - zmiana trybu widoku
+		F12 - tryb pe³noekranowy
+		F11 - tryb okienkowy
+		ESC - wyjœcie z gry
+
+	czo³g:
+		1 - zmiana wie¿yczki (zwyk³a/podwójna/gatling/laser)
+		2 - zmiana pancerza (lekki/œredni/ciê¿ki)
+		0 - tryb pocisku 'slow motion'
+		uwaga: zmiana wyposa¿enia wp³ywa na prêdkoœæ jazdy, odrzut, czas prze³adowania oraz rozmiar wybuchu
+
+	jazda:
+		tryb prosty - strowanie kierunkiem
+			strza³ki
+		tryb zaawansowany - sterowanie g¹sienicami
+			lewy/prawy ctrl/shift
+		C - zmiana trybu
+
+	wierzyczka:
+		WSAD - sterowanie wie¿yczk¹
+		spacja - strza³
